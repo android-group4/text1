@@ -15,6 +15,8 @@ public class ChannelListAdapter extends RecyclerView.Adapter<ChannelListAdapter.
     private List<Channel> channels;
     private ChannelClickListener listener;
 
+
+
     public ChannelListAdapter(List<Channel> channels, ChannelClickListener listener) {
         this.listener = listener;
         this.channels = channels;
