@@ -24,7 +24,32 @@
       "title" : "测试电台",
       "quality" : "流畅",
       "url" : "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8"
+    },
+    {
+      "title" : "CCTV1FHD",
+      "quality" : "流畅",
+      "url" : "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8"
+    },
+    {
+      "title" : "CCTV4",
+      "quality" : "标清",
+      "url" : "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8"
+    },
+    {
+      "title" : "CCTV5FHD",
+      "quality" : "流畅",
+      "url" : "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8"
+    },
+    {
+      "title" : "CCTV9FHD",
+      "quality" : "标清",
+      "url" : "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8"
+    },
+    {
+      "title" : "CCTV11",
+      "quality" : "流畅",
+      "url" : "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8"
     }
   ],
-  "length": 5
+  "length": 10
 }
